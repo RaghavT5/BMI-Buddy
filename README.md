@@ -11,11 +11,11 @@ A simple and easy to use Body Mass Index (BMI) calculator app built with Flutter
 
 ## Screenshots
 
-![Screenshot of the BMI Buddy home screen](screenshots/homescreen.png)
-![Screenshot of the BMI Buddy result screen](screenshots/result-Normal.png)
-![Screenshot of the BMI Buddy result screen](screenshots/result-Underweight.png)
-![Screenshot of the BMI Buddy result screen](screenshots/result-Overweight.png)
-![Screenshot of the BMI Buddy result screen](screenshots/result-Obese.png)
+<img src="screenshots/homescreen.png" width="288" height="608">
+<img src="screenshots/result-Normal.png" width="288" height="608">
+<img src="screenshots/result-Underweight.png" width="288" height="608">
+<img src="screenshots/result-Obese.png" width="288" height="608">
+
 
 ## Getting Started
 
