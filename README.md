@@ -24,7 +24,7 @@ A simple and easy to use Body Mass Index (BMI) calculator app built with Flutter
 
 ## Credit
 
-The design of this app was inspired by the work of Ruben Valt [@rubenvalt](https://dribbble.com/rvaalt) from Dribbble [https://dribbble.com/](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
+The design of this app was inspired by the work of Ruben Valt [@rubenvalt](https://dribbble.com/rvaalt) from Dribbble [https://dribbble.com/shots/4585382-Simple-BMI-Calculato](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
 
 Please note: This application is for reference only. It's not a substitute for professional medical advice. It's important to consult a medical professional for any health concerns.
 
