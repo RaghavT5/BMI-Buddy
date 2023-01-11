@@ -6,7 +6,6 @@ A simple and easy to use Body Mass Index (BMI) calculator app built with Flutter
 
 - Calculate your BMI based on your weight and height
 - Get an indication of whether your BMI is underweight, normal, overweight, or obese
-- Save your calculations for future reference
 - Clean and modern user interface
 
 ## Screenshots
